@@ -1,4 +1,4 @@
- const TELEFONE_WHATSAPP = "5518999999999"; 
+ const TELEFONE_WHATSAPP = "5518981196716"; 
 
         // Alterna entre as Abas (Enxoval vs Como Ajudar)
         function switchTab(aba) {
